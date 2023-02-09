@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 ### :woman_technologist: About me :
-Developer with a passion for solving complex problems through code. I have completed several projects, both individually and in team environments, showcasing my ability to learn quickly and work effectively with others. Seeking opportunities to further develop my skills and make an impact in the tech industry
+Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for solving complex problems through code. I have completed several projects, both individually and in team environments, showcasing my ability to learn quickly and work effectively with others. Seeking opportunities to further develop my skills and make an impact in the tech industry
 - 📫 How to reach me: wachirasilvia8@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
